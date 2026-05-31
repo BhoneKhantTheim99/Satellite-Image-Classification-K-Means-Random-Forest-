@@ -83,3 +83,11 @@ Then open your browser at `http://localhost:8501`
 - [Scikit-learn](https://scikit-learn.org/) — K-Means & Random Forest
 - [GeoPandas](https://geopandas.org/) — Shapefile support (optional)
 - [Matplotlib](https://matplotlib.org/) — Visualizations
+
+## Data Sources
+| Input | Drive Link |
+|-------|-------|
+| Satellite Composite Images | https://drive.google.com/drive/folders/1efQnLPzSvYUCsKor9ZxT8UkOSBPe0_7W?usp=sharing |
+| Rare-earth mine polygons | https://drive.google.com/drive/folders/1qIl4wOfkxR_6hcwbb5jtwQyXvUGvAljD?usp=sharing |
+| Region of Interest polygon | https://drive.google.com/drive/folders/1ipbcjRhMmFmLuigefTjT0UA_6y_Cx5s-?usp=sharing |
+
